@@ -1,0 +1,49 @@
+*{
+box-sizing: border-box;
+}
+
+.navi{
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  max-width: 960px;
+  margin: 0 auto;
+ justify-content: space-between;
+  margin-bottom: 40px;
+}
+.navi h1{
+  margin-right: auto;
+}
+
+.marked{
+  background-color: green;
+  width: 100px;
+ 
+}
+
+.not-marked{
+  background-color: grey;
+  width: 100px;
+
+ 
+}
+
+.bokad{
+  color: white;
+  background-color: red;
+}
+
+.seats{
+  margin: 15%;
+}
+
+.screen{
+  margin: 20%;
+ 
+}
+
+img{
+  align-items: center;
+  align-content: center;
+  margin: 2%;
+}
